@@ -1,4 +1,4 @@
-### Colombian School of Engineering
+### Escuela Colombiana de Ingenieria - Julio Garavito
 ### Enterprise Architecture - AREP-LAB02
 # WORKSHOP #2 - WEB MICROFRAMEWORKS
 
