@@ -44,7 +44,7 @@ AddMedAppointmentService -->|Relies on| MedAppointmentService
 
 ```
 
-## Evaluación
+## Evaluation
 
 A view of the App:
 
