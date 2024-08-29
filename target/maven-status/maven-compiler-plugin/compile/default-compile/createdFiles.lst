@@ -1,9 +1,0 @@
-escuelaing\edu\co\arep\MedAppointment.class
-escuelaing\edu\co\arep\ClientHandler.class
-escuelaing\edu\co\arep\services\AddMedAppointmentService.class
-escuelaing\edu\co\arep\services\ListAppointmentService.class
-escuelaing\edu\co\arep\services\RESTService.class
-escuelaing\edu\co\arep\AREP.class
-escuelaing\edu\co\arep\App.class
-escuelaing\edu\co\arep\utils\MedAppointmentService.class
-escuelaing\edu\co\arep\SparkServer.class
