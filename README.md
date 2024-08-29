@@ -1,5 +1,5 @@
 ### Escuela Colombiana de Ingenieria - Julio Garavito
-### Enterprise Architecture - AREP-LAB02
+### Arquitectura Empresarial - AREP-LAB02
 # WORKSHOP #2 - WEB MICROFRAMEWORKS
 
 ## Name: Camilo Nicolas Murcia Espinosa
